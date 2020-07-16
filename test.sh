@@ -1,4 +1,5 @@
 #!/bin/bash
 
 
-echo "Hello"
+echo "Hello Roshan"
+echo "How are u"
